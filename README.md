@@ -37,3 +37,12 @@ Send a POST request with a transcript to http://localhost:5001/generate to get t
 
 
 
+Paper: 
+@article{venkateshperumal2025efficient,
+  title={Efficient VoIP Communications through LLM-based Real-Time Speech Reconstruction and Call Prioritization for Emergency Services},
+  author={Venkateshperumal, Danush and Rafi, Rahman Abdul and Ahmed, Shakil and Khokhar, Ashfaq},
+  journal={Measurement: Digitalization},
+  pages={100010},
+  year={2025},
+  publisher={Elsevier}
+}
